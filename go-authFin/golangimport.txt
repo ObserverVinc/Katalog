@@ -1,0 +1,11 @@
+jalankan di terminal
+go mod tidy
+go get github.com/gofiber/fiber/v2
+go get github.com/gofiber/fiber/v2/middleware/cors
+go get golang.org/x/crypto/bcrypt
+go get github.com/golang-jwt/jwt
+go get time
+go get strconv
+go get gorm.io/driver/mysql
+go get gorm.io/gorm
+go mod tidy
